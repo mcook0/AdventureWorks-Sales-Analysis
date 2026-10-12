@@ -63,6 +63,7 @@ adventureworks-fullstack-pipeline/
 │   └── fullstack_project.sql
 ├── powerbi/
 │   └── fullstack_analysis.pbix
+|   └── fullstack_analysis_dashboard.pdf
 └── README.md
 
 
